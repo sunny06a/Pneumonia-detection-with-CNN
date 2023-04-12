@@ -1,1 +1,1 @@
-# Pneumonia-detection-with-CNN
+# Pneumonia-detection-using-CNN
